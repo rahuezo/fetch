@@ -1,0 +1,22 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "An electron app used to communicate with co-workers.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuezo/fetch.git"
+  },
+  "author": "Rudy Huezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuezo/fetch/issues"
+  },
+  "homepage": "https://github.com/rahuezo/fetch#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}
